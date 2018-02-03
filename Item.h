@@ -1,7 +1,7 @@
             // Specification of ADT Item
 //     data object: a name associated with a phone number
 //     operations: create, destroy, copy create, copy
-//                 input, output
+//                 input, output, tester
 
 #ifndef ITEM_H
 #define ITEM_H
